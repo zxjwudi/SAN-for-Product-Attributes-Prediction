@@ -6,7 +6,7 @@ Heterogeneous **S**tar Graph **A**ttention **N**etwork <br> for Product Attribut
 ![PyTorch](https://img.shields.io/badge/pytorch-1.5-%237732a8)
 
 This repository contains the official PyTorch implementation for [ADVIE](https://www.journals.elsevier.com/advanced-engineering-informatics) Paper "[Heterogeneous Star Graph Attention Network for Product Attributes Prediction](https://authors.elsevier.com/a/1eC1w5FA1j%7EB49)". 
-We also present the [users interaction dataset of Alibaba](https://github.com/zxjwudi/Alibaba-Custermers-Interaction-Dataset) used in this paper.
+We also present the [Alibaba Custermers Interaction Dataset](https://github.com/zxjwudi/Alibaba-Custermers-Interaction-Dataset) used in this paper.
 
 
 <div align="center">
